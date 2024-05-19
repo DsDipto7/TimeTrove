@@ -30,7 +30,7 @@
     </li>
     @endif
 
-     <li>
+     {{-- <li>
        <a href="icons.html">
          <i class="zmdi zmdi-invert-colors"></i> <span>UI Icons</span>
        </a>
@@ -40,7 +40,7 @@
        <a href="forms.html">
          <i class="zmdi zmdi-format-list-bulleted"></i> <span>Forms</span>
        </a>
-     </li>
+     </li> --}}
 
      <li>
        <a href="tables.html">
