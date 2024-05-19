@@ -54,24 +54,24 @@
 				</div>
 			   </div>
 			  
-			   <div class="form-group">
+			   {{-- <div class="form-group">
 			     <div class="icheck-material-white">
                    <input type="checkbox" id="user-checkbox" checked="" />
                    <label for="user-checkbox">I Agree With Terms & Conditions</label>
 			     </div>
-			    </div>
+			    </div> --}}
 			  
 			 <button type="submit" class="btn btn-light btn-block waves-effect waves-light">Sign Up</button>
-			  <div class="text-center mt-3">Sign Up With</div>
+			  {{-- <div class="text-center mt-3">Sign Up With</div> --}}
 			  
-			 <div class="form-row mt-4">
+			 {{-- <div class="form-row mt-4">
 			  <div class="form-group mb-0 col-6">
 			   <button type="button" class="btn btn-light btn-block"><i class="fa fa-facebook-square"></i> Facebook</button>
 			 </div>
 			 <div class="form-group mb-0 col-6 text-right">
 			  <button type="button" class="btn btn-light btn-block"><i class="fa fa-twitter-square"></i> Twitter</button>
 			 </div>
-			</div>
+			</div> --}}
 			
 			 </form>
 		   </div>
