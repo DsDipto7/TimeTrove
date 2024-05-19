@@ -35,7 +35,7 @@
 				  </div>
 			   </div>
 			  </div>
-			<div class="form-row">
+			{{-- <div class="form-row">
 			 <div class="form-group col-6">
 			   <div class="icheck-material-white">
                 <input type="checkbox" id="user-checkbox" checked="" />
@@ -45,18 +45,18 @@
 			 <div class="form-group col-6 text-right">
 			  <a href="reset-password.html">Reset Password</a>
 			 </div>
-			</div>
+			</div> --}}
 			 <button type="submit" class="btn btn-light btn-block">Sign In</button>
-			  <div class="text-center mt-3">Sign In With</div>
+			  {{-- <div class="text-center mt-3">Sign In With</div> --}}
 			  
-			 <div class="form-row mt-4">
+			 {{-- <div class="form-row mt-4">
 			  <div class="form-group mb-0 col-6">
 			   <button type="button" class="btn btn-light btn-block"><i class="fa fa-facebook-square"></i> Facebook</button>
 			 </div>
 			 <div class="form-group mb-0 col-6 text-right">
 			  <button type="button" class="btn btn-light btn-block"><i class="fa fa-twitter-square"></i> Twitter</button>
 			 </div>
-			</div>
+			</div> --}}
 			 
 			 </form>
 		   </div>
