@@ -42,11 +42,11 @@
        </a>
      </li> --}}
 
-     <li>
+     {{-- <li>
        <a href="tables.html">
          <i class="zmdi zmdi-grid"></i> <span>Tables</span>
        </a>
-     </li>
+     </li> --}}
 
      {{-- <li>
        <a href="calendar.html">
@@ -55,23 +55,23 @@
        </a>
      </li> --}}
 
-     <li>
+     {{-- <li>
        <a href="profile.html">
          <i class="zmdi zmdi-face"></i> <span>Profile</span>
        </a>
-     </li>
-
+     </li> --}}
+{{-- 
      <li>
-       <a href="login.html" target="_blank">
+       <a href="{{url('/_auth/login'}}" target="_blank">
          <i class="zmdi zmdi-lock"></i> <span>Login</span>
        </a>
-     </li>
+     </li> --}}
 
-      <li>
+      {{-- <li>
        <a href="register.html" target="_blank">
          <i class="zmdi zmdi-account-circle"></i> <span>Registration</span>
        </a>
-     </li>
+     </li> --}}
 
      {{-- <li class="sidebar-header">LABELS</li>
      <li><a href="javaScript:void();"><i class="zmdi zmdi-coffee text-danger"></i> <span>Important</span></a></li>
