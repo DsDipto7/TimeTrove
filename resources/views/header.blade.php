@@ -34,6 +34,10 @@
                         <li class="nav-item">
                             <a class="nav-link p-0" href="#video-player">Video</a>
                         </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="{{url('/chatify')}}">chat</a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link p-0" href="#testimonials">Testimonial</a>
                         </li>

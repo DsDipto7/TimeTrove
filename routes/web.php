@@ -53,6 +53,7 @@ Route::group(['prefix' => '_user','middleware'=>['web','isUser']],function(){
     Route::post('/edit_cart/{id}', [UserController::class, 'post_edit_cart']);
     Route::get('/delete_cart/{id}', [UserController::class, 'delete_cart']);
     Route::get('/checkout', [SslCommerzPaymentController::class, 'exampleHostedCheckout']);
+    
 
     Route::get('/invoice',[UserController::class,'invoice']);
 });
