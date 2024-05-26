@@ -136,7 +136,7 @@
                     <div class="banner-content py-lg-12">
                         <h1 class="display-1 pb-4">Perfect <span class="text-primary">Watch</span> for perfect people.
                         </h1>
-                        <p>Discover captivating stories, expand your knowledge, and embark on new adventures.</p>
+                        <p>Watches that make  you feel warm and fuzzy inside.</p>
                         <a href="#featured-products" id="order-now-btn"
                             class="btn btn-lg btn-outline-dark btn-bg-light text-uppercase mt-3 rounded-pill fw-bold">Order
                             now! </a>
@@ -561,7 +561,7 @@
                     </div>
                     <div class="row">
                         <div class="display-header">
-                            <h2 class="display-2">Social info</h2>
+                            <h2 class="display-2">Social Platform</h2>
                             <div class="social-links">
                                 <ul class="list-unstyled d-flex flex-wrap gap-3">
                                     <li>

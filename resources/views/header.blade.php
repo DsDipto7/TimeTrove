@@ -36,7 +36,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="{{url('/chatify')}}">chat</a>
+                            <a class="nav-link p-0" href="{{url('/chatify')}}">Chat</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link p-0" href="#testimonials">Testimonial</a>
