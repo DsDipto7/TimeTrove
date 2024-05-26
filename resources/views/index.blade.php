@@ -543,8 +543,8 @@
                                 <div class="invalid-feedback"> Please put a some words here. </div>
                             </div>
                         </div>
-                        <button class="btn btn-primary btn-lg mt-5 rounded-pill text-uppercase" type="submit">Order
-                            Now</button>
+                        <button class="btn btn-primary btn-lg mt-5 rounded-pill text-uppercase" type="submit">Send
+                    </button>
                     </form>
                 </div>
                 <div class="col-lg-5">
@@ -597,7 +597,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <<a href="https://www.instagram.com" target="_blank" >
+                                        <<a href="https://www.instagram.com" target="_blank">
                                             <svg width="25" height="25" viewBox="0 0 24 24"
                                                 class="svg-gray-3">
                                                 <use xlink:href="#instagram"></use>
